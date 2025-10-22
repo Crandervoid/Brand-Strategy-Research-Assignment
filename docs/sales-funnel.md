@@ -1,4 +1,4 @@
-# Sales Funnel Research (placeholder)
+# Sales Funnel Research 
 Awareness — Attract Attention
 
 At the awareness stage, the goal is to make potential customers notice the brand or product. Websites use eye-catching visuals, strong headlines, and SEO-optimized content to attract visitors. For example, homepage banners, social media ads, and blog posts introduce the brand’s message and values. This stage focuses on grabbing attention and making a strong first impression.

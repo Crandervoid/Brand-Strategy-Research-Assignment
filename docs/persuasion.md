@@ -1,4 +1,4 @@
-# Persuasion Research (placeholder)
+# Persuasion Research 
 How Brands Persuade Users Using Cialdini’s Six Principles
 
 1. Reciprocity

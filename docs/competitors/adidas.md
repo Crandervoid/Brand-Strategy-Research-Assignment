@@ -1,12 +1,12 @@
 # Adidas Competitor Research
-Competitor Analysis: Adidas
-URL: https://www.adidas.com
-Archetype: Creator
-Persuasion Techniques: Social Proof, Authority, Scarcity
-Sales Funnel Highlights:
-Awareness: Bold visuals featuring athletes and creators; “Impossible is Nothing” campaign to inspire audiences
-Interest: Product innovation stories highlighting performance technology (e.g., BOOST, PRIMEKNIT)
-Desire: Emotional connection through sustainability initiatives and collaborations with designers or influencers
-Action: “Shop Now” and “Join AdiClub” CTAs driving purchases and membership sign-ups
-Strengths: Strong global identity, diverse product range, focus on innovation and sustainability
-Weaknesses: Premium pricing, competition with Nike, and occasional limited stock availability
+- **URL:** https://www.adidas.com  
+- **Archetype:** Creator (focus on innovation, originality, and self-expression)  
+- **Persuasion Techniques:** Authority, Liking, Social Proof  
+- **Sales Funnel Highlights:**  
+  - **Awareness:** Global campaigns featuring athletes, creators, and sustainability initiatives  
+  - **Interest:** Dynamic product pages showcasing performance gear, lifestyle collections, and eco-friendly materials  
+  - **Desire:** High-profile collaborations with designers and influencers to drive exclusivity and brand appeal  
+  - **Action:** Prominent “Shop Now” and “Customize” options with limited-time releases and free shipping incentives  
+- **Strengths:** Strong global brand recognition, innovation in design and materials, emphasis on sustainability and creativity  
+- **Weaknesses:** High price point reduces accessibility, dependence on collaborations for cultural relevance, strong competition from Nike and other brands
+
