@@ -1,13 +1,12 @@
 # Nike Competitor Research
 
-Analysis:
-- Competitor: Nike
-- Core Traits: Freedom and exploration through sport; mastery and self-discovery (“Born on the Court. Perfected on the Field.”); empowerment and ambition; courage and determination; authentic performance and grit
-- Colors: Earth brown (dirt field background), white (text and logo), black (shoes, interface elements), deep blue (shoe accent)
-- Fonts: Bold, condensed sans-serif (all caps, tight kerning for impact); secondary text in lighter sans-serif for clarity and utility
-- Tone: Empowering, commanding, and motivational — short, assertive language that conveys control and confidence (“OWN THE INNING”)
-- Example Brands: The North Face, Patagonia, Red Bull, GoPro
-
-
-
-
+- **URL:** https://www.nike.com
+- **Archetype:** Hero (focus on performance, empowerment, achievement)
+- **Persuasion Techniques:** Authority, Liking, Social Proof, Scarcity
+- **Sales Funnel Highlights:**
+  - **Awareness:** Global campaigns like "Just Do It" with inspirational athlete imagery
+  - **Interest:** Wide product categories (running, basketball, lifestyle, training)
+  - **Desire:** Collaborations with athletes, celebrities, and exclusive product drops
+  - **Action:** Clear "Shop" and "Customize" calls-to-action, Nike App for streamlined checkout
+- **Strengths:** Strong global dominance, powerful brand identity, innovative marketing, emotional storytelling
+- **Weaknesses:** Premium pricing limits accessibility, ethical concerns around manufacturing, high competition from Adidas & other brands
